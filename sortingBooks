@@ -1,0 +1,6 @@
+sort the books into groups based on the first character in the title.
+inside each group, compare books based on next character.
+keep moving to next character and ordering books until all books in the group are sorted
+[A] [C] [H] [L] [V] [Y]
+[A] + [C] + [H] + [L] + [V] + [Y]
+put the groups back together starting with the first group and going down the line
